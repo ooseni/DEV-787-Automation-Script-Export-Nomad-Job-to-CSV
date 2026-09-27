@@ -64,3 +64,7 @@ A full local testing environment is included to quickly spin up a Nomad dev agen
 - `provision.sh`: Bootstraps Docker and Nomad on the guest VM.
 - `*.nomad.hcl`: Sample jobs for testing static and dynamic port allocations.
 - `Screenshots/`: Contains visual documentation of the Nomad UI, script execution, and Vagrant provisioning.
+
+## License
+
+Released under the [MIT License](LICENSE).
